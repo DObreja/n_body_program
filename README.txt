@@ -30,4 +30,6 @@ There were problems last time this package was installed, simply email if it ari
 2023 Remark:
 This project was produced October 2021. The main purpose of this project was to complete an assigned task and fulfill certain criteria that would allow for the careful study of a celestial system with an N amount of bodies.
 
+If you wish for the report that was produced while utilising this software, please send me a private email.
+
 MIT License
