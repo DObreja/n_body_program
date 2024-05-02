@@ -1,9 +1,11 @@
 # Project: N-Body simulation
 ## Creating the venv
 This is how you create a venv, activate the venv and install the dependencies, type this in the console (powershell)...
+```
 python -m venv venv
 venv\Scripts\activate.ps1
 pip3 install -r requirements.txt
+```
 
 And then to run it while still in the venv...
 python main.py
