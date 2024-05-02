@@ -3,17 +3,20 @@
 This is how you create a venv, activate the venv and install the dependencies, type this in the console (powershell)...
 ```
 python -m venv venv
-venv\Scripts\activate.ps1
+source ./venv/bin/activate (or venv\Scripts\activate.ps1 ?)
+cd Project_Final
 pip3 install -r requirements.txt
 ```
 
 And then to run it while still in the venv...
+```
 python main.py
+```
 
 ## Loading an n-body preset
 Open the program for the N-body simulator.
 Press the load button.
-Select a JSON file in the saves.
+Select a JSON file in the saves folder.
 Click on simulate problem FIRST, important step.
 Now you can click on animate problem.
 
